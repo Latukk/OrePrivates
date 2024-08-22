@@ -1,0 +1,10 @@
+name: OrePrivates
+version: '${project.version}'
+main: org.latuk.oreprivates.OrePrivates
+api-version: '1.16'
+commands:
+  rg:
+    description: regions
+    usage:  /<command>
+    aliases:
+      - region

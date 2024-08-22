@@ -1,0 +1,21 @@
+blocks:
+  DIAMOND_BLOCK: 5
+  DIAMOND_ORE: 10
+  EMERALD_ORE: 16
+
+messages:
+  private-block-in-region: "Вы не можете установить регион в другом регионе!"
+  regions-overlaps: "Регион пересекается с другим!"
+  you-are-not-owner-of-region: "Вы не являетесь владельцем этого региона!"
+  you-are-not-member-of-region: "Вы не являетесь участником этого региона!"
+  region-created-successfully: "Регион успешно создан."
+  region-removed-successfully: "Регион успешно удалён."
+  region-list-not-found: "Регионы не найдены!"
+  region-info-rg-not-found: "Вы не в регионе!"
+  unknown-command: "Неизвестная команда. Используйте /rg help."
+  rg-am-enter-rg-name: "Укажите название региона!"
+  rg-am-enter-player-name: "Укажите никнейм игрока!"
+  rg-am-how-to-use: "/rg addmember <Регион> <Никнейм>"
+  rg-rm-how-to-use: "/rg removemember <Регион> <Никнейм>"
+  rg-am-player-added-to-region: "Игрок успешно добавлен в регион."
+  rg-rm-player-removed-from-region: "Игрок успешно удалён из региона."
